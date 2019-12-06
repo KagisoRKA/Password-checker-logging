@@ -33,7 +33,7 @@ class PasswordChecker {
         }
         return results;
     }
-    static String passwordIsOk(String password) {
+    static boolean passwordIsOk(String password) {
         boolean DoesNotHaveSpecialCharacter = Pattern.matches("[a-zA-Z0-9]*", password);
         boolean hasNumericValue = false;
         boolean hasUpperCase = false;
@@ -52,10 +52,10 @@ class PasswordChecker {
         }
         boolean[] conditions = {password.length() > 8, password.length() != 0,!DoesNotHaveSpecialCharacter, hasNumericValue, hasUpperCase, hasLowerCase};
         int metConditions = 0;
-        String result = "";
+        boolean result = false;
         //Checking if password meets condition 1 and 2
         if(password.length()<=8){
-            result = "User password is not ok";
+            return false;
         }else {
             for (boolean a : conditions) {
                 if (a) {
@@ -63,7 +63,7 @@ class PasswordChecker {
                 }
             }
             if (metConditions >= 3) {
-                result = "User password is ok";
+                result = true;
             }
         }
         return result;
