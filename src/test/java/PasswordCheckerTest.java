@@ -12,7 +12,7 @@ class PasswordCheckerTest {
     }
     @Test
     void passwordIsOk(){
-         assertSame(false,PasswordChecker.passwordIsOk("P@ssw0rd"));
-         assertSame(true,PasswordChecker.passwordIsOk("Passwords"));
+         assertSame("User password is not ok",PasswordChecker.passwordIsOk("P@ssw0rd"));
+         assertSame("User password is ok",PasswordChecker.passwordIsOk("Passwords"));
     }
 }
