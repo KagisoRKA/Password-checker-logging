@@ -5,7 +5,7 @@ class PasswordChecker {
         boolean hasNumericValue = false;
         boolean hasUpperCase = false;
         boolean hasLowerCase = false;
-        String results = "";
+        String results = "Password set";
         for (int i = 0; i < password.length(); i++) {
             char charInPassword = password.charAt(i);
             if (Character.isDigit(charInPassword)) {
