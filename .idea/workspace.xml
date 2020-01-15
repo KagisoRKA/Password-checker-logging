@@ -2,30 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f5e1508-5eee-4668-8dac-19c6c17bb590" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/logs/error.logs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/PasswordChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/PasswordChecker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/PasswordCheckerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/PasswordCheckerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/PasswordCheckerTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/PasswordCheckerTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/log4j2-test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/log4j2-test.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-PasswordCheckerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-PasswordCheckerTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PasswordCheckerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PasswordCheckerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/error.logs" beforeDir="false" afterPath="$PROJECT_DIR$/logs/error.logs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +57,7 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/logs" />
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
@@ -242,26 +223,26 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="466" y="155" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1575968677439" />
-    <state width="1320" height="190" key="GridCell.Tab.0.bottom" timestamp="1579076938427">
+    <state width="1320" height="190" key="GridCell.Tab.0.bottom" timestamp="1579078247452">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="215" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575738062420" />
-    <state width="1320" height="190" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1579076938427" />
-    <state width="1320" height="190" key="GridCell.Tab.0.center" timestamp="1579076938427">
+    <state width="1320" height="190" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1579078247452" />
+    <state width="1320" height="190" key="GridCell.Tab.0.center" timestamp="1579078247452">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="215" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1575738062419" />
-    <state width="1320" height="190" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1579076938427" />
-    <state width="1320" height="190" key="GridCell.Tab.0.left" timestamp="1579076938426">
+    <state width="1320" height="190" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1579078247452" />
+    <state width="1320" height="190" key="GridCell.Tab.0.left" timestamp="1579078247451">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="215" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1575738062418" />
-    <state width="1320" height="190" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1579076938426" />
-    <state width="1320" height="190" key="GridCell.Tab.0.right" timestamp="1579076938427">
+    <state width="1320" height="190" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1579078247451" />
+    <state width="1320" height="190" key="GridCell.Tab.0.right" timestamp="1579078247452">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="215" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1575738062419" />
-    <state width="1320" height="190" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1579076938427" />
+    <state width="1320" height="190" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1579078247452" />
     <state x="263" y="106" key="IDE.errors.dialog" timestamp="1575736966551">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
