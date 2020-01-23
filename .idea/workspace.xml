@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f5e1508-5eee-4668-8dac-19c6c17bb590" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/logs/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/error.logs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/errors.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/errors.logs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/error.logs" beforeDir="false" afterPath="$PROJECT_DIR$/logs/error.logs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/log4j2-test.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +51,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../String Calculator" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -219,30 +227,34 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="412" y="147" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1575737396619" />
-    <state x="466" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1575968677439">
+    <state x="95" y="146" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579079280997">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="466" y="155" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1575968677439" />
-    <state width="1320" height="190" key="GridCell.Tab.0.bottom" timestamp="1579078247452">
+    <state x="95" y="146" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.741@0.27.1366.741" timestamp="1579079280997" />
+    <state x="466" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579678841514">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="155" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1579678841514" />
+    <state width="1320" height="222" key="GridCell.Tab.0.bottom" timestamp="1579765110475">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="215" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575738062420" />
-    <state width="1320" height="190" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1579078247452" />
-    <state width="1320" height="190" key="GridCell.Tab.0.center" timestamp="1579078247452">
+    <state width="1320" height="222" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1579765110475" />
+    <state width="1320" height="222" key="GridCell.Tab.0.center" timestamp="1579765110474">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="215" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1575738062419" />
-    <state width="1320" height="190" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1579078247452" />
-    <state width="1320" height="190" key="GridCell.Tab.0.left" timestamp="1579078247451">
+    <state width="1320" height="222" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1579765110474" />
+    <state width="1320" height="222" key="GridCell.Tab.0.left" timestamp="1579765110474">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="215" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1575738062418" />
-    <state width="1320" height="190" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1579078247451" />
-    <state width="1320" height="190" key="GridCell.Tab.0.right" timestamp="1579078247452">
+    <state width="1320" height="222" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1579765110474" />
+    <state width="1320" height="222" key="GridCell.Tab.0.right" timestamp="1579765110475">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="215" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1575738062419" />
-    <state width="1320" height="190" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1579078247452" />
+    <state width="1320" height="222" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1579765110475" />
     <state x="263" y="106" key="IDE.errors.dialog" timestamp="1575736966551">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -252,11 +264,11 @@
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1575736851857" />
     <state x="184" y="27" width="1024" height="741" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1575964972049" />
-    <state x="379" y="217" key="com.intellij.ide.util.TipDialog" timestamp="1578993689894">
+    <state x="379" y="217" key="com.intellij.ide.util.TipDialog" timestamp="1579678811618">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1575737962443" />
-    <state x="379" y="217" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1578993689894" />
+    <state x="379" y="217" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1579678811618" />
     <state x="0" y="27" width="1356" height="741" key="new project wizard" timestamp="1578998748190">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
