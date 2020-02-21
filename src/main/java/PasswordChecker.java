@@ -29,7 +29,7 @@ class PasswordChecker {
         } else if (!hasNumericValue) {
             results = "password should at least have one digit";
         } else if (DoesNotHaveSpecialCharacter) {
-            results = "password should have at least have one special character";
+            results = "password should have at least one special character";
         }
         return results;
     }
